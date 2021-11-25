@@ -1,0 +1,2 @@
+Program is written in java and has a GUI.
+The FileMenu items should be run from top to the down of the menu. If any changes in the parameters are applied, all items of menu should be run agin from top to the button in order to have the correct result. 
